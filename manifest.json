@@ -1,5 +1,5 @@
 {
-  "name": "Simple Sheet Free - Calc & Note",
+  "name": "Simple Sheet  - Calc & Note",
   "short_name": "SS FREE",
   "description": "Minimalist calculator with integrated note-taking. Experience structured calculations for free.",
   "id": "/Simple-Sheet-Free/",
@@ -12,13 +12,13 @@
       "src": "web-app-manifest-192x192.png",
       "sizes": "192x192",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     },
     {
       "src": "web-app-manifest-512x512.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any"
+      "purpose": "any maskable"
     }
   ]
 }
